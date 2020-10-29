@@ -1,0 +1,4 @@
+{
+  actor: @actor.first_name @actor.last_name
+  actor_id: @actor.id
+}
