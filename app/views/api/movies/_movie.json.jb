@@ -5,4 +5,5 @@
   movie_id: movie.id,
   director: movie.director,
   English: movie.english,
+  genres: movie.genres,
 }
