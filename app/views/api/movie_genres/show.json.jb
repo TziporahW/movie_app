@@ -1,0 +1,1 @@
+render partial: "movie_genres.json.jb", locals: { movie_genre: @movie_genre }
